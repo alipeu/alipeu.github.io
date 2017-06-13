@@ -8,7 +8,7 @@ alifhilmirc@gmail.com_
 
 ## Pendidikan
 
-### Institut Pertanian Bogor _---- SKomp_
+### Institut Pertanian Bogor _--- SKomp_
 On going ...
 
 ### SMA Negeri 48 Jakarta
