@@ -16,10 +16,10 @@ Juli 2013 -- Juli 2016
 
 ## Pelatihan
 
-- W3schools -- HTML
-- W3schools -- CSS
-- W3schools -- JavaScript
-- Codecademy -- JavaScript
+- W3schools --- HTML
+- W3schools --- CSS
+- W3schools --- JavaScript
+- Codecademy --- JavaScript
 
 ## Keahlian
 
