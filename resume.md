@@ -25,8 +25,8 @@ Juli 2013 -- Juli 2016
 
 - HTML (_intermediate_)
 - CSS (_intermediate_)
-- JavaScript (_beginner_)
-- C (_beginner_)
+- JavaScript (_basic_)
+- C (_basic_)
 
 ## Hobi
 
