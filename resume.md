@@ -1,5 +1,3 @@
----
-
 # Alif Hilmi Akbar
 
 Mahasiswa Ilmu Komputer IPB
@@ -36,4 +34,4 @@ Juli 2013 -- Juli 2016
 
 Mengerjakan LX, mendengarkan musik, dan mempelajari bahasa baru.
 
----
+<hr/>
