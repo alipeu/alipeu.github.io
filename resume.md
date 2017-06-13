@@ -33,3 +33,5 @@ Juli 2013 -- Juli 2016
 ## Hobi
 
 Mengerjakan LX, mendengarkan musik, dan mempelajari bahasa baru.  
+  
+  
