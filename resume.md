@@ -2,8 +2,8 @@
 
 Mahasiswa Ilmu Komputer IPB
 
-_Asrama PPKU IPB, Bogor 16680_\
-_+62 853-2928-7450_\
+_Asrama PPKU IPB, Bogor 16680_  
+_+62 853-2928-7450_  
 _alifhilmirc@gmail.com_
 
 ## Pendidikan
