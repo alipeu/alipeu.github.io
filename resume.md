@@ -1,14 +1,12 @@
 # Alif Hilmi Akbar
-==================
 
 Mahasiswa Ilmu Komputer IPB
 
-_Asrama PPKU IPB, Bogor 16680_
-_+62 853-2928-7450_
-_alifhilmirc@gmail.com_
+_Asrama PPKU IPB, Bogor 16680_\
+_+62 853-2928-7450_\
+_alifhilmirc@gmail.com_\
 
 ## Pendidikan
--------------
 
 ### Institut Pertanian Bogor -- _SKomp_
 
@@ -19,6 +17,19 @@ On going ...
 Juli 2013 -- Juli 2016
 
 ## Pelatihan
-------------
 
-- 
+- W3schools -- HTML
+- W3schools -- CSS
+- W3schools -- JavaScript
+- Codecademy -- JavaScript
+
+## Keahlian
+
+- HTML (_intermediate_)
+- CSS (_intermediate_)
+- JavaScript (_beginner_)
+- C (_beginner_)
+
+## Hobi
+
+Mengerjakan LX, mendengarkan musik, dan mempelajari bahasa baru.
